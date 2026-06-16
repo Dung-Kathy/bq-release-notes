@@ -1,5 +1,9 @@
 # BigQuery Release Notes Explorer
 
+## Screenshot
+
+![App screenshot](screenshots/app.png)
+
 A premium, interactive web application built with Python Flask and plain vanilla HTML, JavaScript, and CSS that fetches the official Google BigQuery Release Notes feed, parses and structures it, and displays it in a beautiful, modern interface. It also includes an advanced Twitter/X sharing mechanism.
 
 ## Features
